@@ -11,5 +11,5 @@ A Python-based number guessing game featuring a clean separation of logic and in
   - Feedback system guiding players with hints ("Try higher" or "Try lower").
   - Restart functionality to play multiple rounds without restarting the program.
 
-## **Project Structure**
+
 
